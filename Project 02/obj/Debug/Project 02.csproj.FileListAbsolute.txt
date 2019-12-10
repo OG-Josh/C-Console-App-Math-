@@ -1,0 +1,7 @@
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\obj\Debug\Project 02.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\obj\Debug\Project 02.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\bin\Debug\Project 02.exe.config
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\bin\Debug\Project 02.exe
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\bin\Debug\Project 02.pdb
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\obj\Debug\Project 02.exe
+C:\Users\joshu\Documents\Workload\Visual Programming\_Project2\Project02\Project 02\obj\Debug\Project 02.pdb
